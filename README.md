@@ -1,14 +1,15 @@
-# -leetcode
+# LeetCode JavaScript
 
-File Name Rules:
+## File Name Rules:
 
-```javascript
-console.log(
-  `${ModuleId}-${ModuleName}-${QuestionIndex}-${QuestionLevel}-${QuestionLeetCodeId}-${QuestionLeetCodeName}`
-);
-```
+${ModuleId}-${ModuleName}-${QuestionIndex}-${QuestionLevel}-${QuestionLeetCodeId}-${QuestionLeetCodeName}`
 
-| 模块 ID | 模块  | 模块说明 |
-| ------- | ----- | -------- |
-| 1       | array | 数组     |
-| 2       | link  | 链表     |
+## Questions
+
+| Module ID | Module | Question Link                                                                    | Question Solution                                                                                        |
+| --------- | ------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| 1         | array  | [485. 最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | [Solution](https://github.com/cody1991/-leetcode/blob/master/1-array-1-easy-485-max-consecutive-ones.js) |
+| 1         | array  | 数组                                                                             | --                                                                                                       |
+| 1         | array  | 数组                                                                             | --                                                                                                       |
+| 2         | link   | 链表                                                                             | --                                                                                                       |
+| 2         | link   | 链表                                                                             | --                                                                                                       |
