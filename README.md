@@ -2,7 +2,9 @@
 
 ## File Name Rules:
 
-${ModuleId}-${ModuleName}-${QuestionIndex}-${QuestionLevel}-${QuestionLeetCodeId}-${QuestionLeetCodeName}`
+```
+${ModuleId}-${ModuleName}-${QuestionIndex}-${QuestionLevel}-${QuestionLeetCodeId}-${QuestionLeetCodeName}
+```
 
 ## Questions
 
