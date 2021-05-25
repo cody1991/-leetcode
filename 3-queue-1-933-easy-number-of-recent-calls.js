@@ -1,5 +1,4 @@
 var RecentCounter = function () {
-  this.count = 0;
   this.array = [];
   this.i = 0;
   this.j = 0;
