@@ -11,6 +11,7 @@
 | Link(2)  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)             | [Solution](./2-link-2-easy-206-reverse-linked-list.js)         | Easy           |
 | Queue(3) | [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)    | [Solution](./3-queue-1-933-easy-number-of-recent-calls.js)     | Easy           |
 | Stack(4) | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)              | [Solution](./4-stack-1-20-easy-valid-parentheses.js)           | Easy           |
+| Stack(4) | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)  | [Solution](./4-stack-2-496-easy-next-greater-element-i.js)     | Easy           |
 
 ## File Name Rules:
 
