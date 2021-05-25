@@ -9,6 +9,7 @@
 | Array(1) | [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)                   | [Solution](https://github.com/cody1991/-leetcode/blob/master/1-array-3-easy-27-remove-element.js)              | Easy           |
 | Link(2)  | [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/cody1991/-leetcode/blob/master/2-link-1-easy-203-remove-linked-list-elements.js) | Easy           |
 | Link(2)  | [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)             | [Solution](https://github.com/cody1991/-leetcode/blob/master/2-link-2-easy-206-reverse-linked-list.js)         | Easy           |
+| Link(3)  | [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)    | [Solution](./3-queue-1-933-easy-number-of-recent-calls.js)                                                     | Easy           |
 
 ## File Name Rules:
 
