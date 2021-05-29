@@ -14,7 +14,7 @@
 | Stack        | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)  | [Solution](./4-stack-2-496-easy-next-greater-element-i.js)     | Easy           | 2021-05-25 |
 | Hash         | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)          | [Solution](./5-hash-1-217-contains-duplicate.js)               | Easy           | 2021-05-29 |
 | Hash         | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)               | [Solution](./5-hash-2-389-find-the-difference.js)              | Easy           | 2021-05-29 |
-| Hash + Stack | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)  | [Solution](./5-hash-3-496-easy-next-greater-element-i.js)      | Easy           | 2021-05-25 |
+| Hash + Stack | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)  | [Solution](./5-hash-3-496-easy-next-greater-element-i.js)      | Easy           | 2021-05-29 |
 
 ## File Name Rules:
 
