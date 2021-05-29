@@ -17,6 +17,8 @@
 | Set          | [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/)                     | [Solution](./solution/6-set-2-705-design-hashset.js)                         | Easy           | 2021-05-29 |
 | Tree         | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution - 递归](./solution/7-tree-1-144-binary-tree-preorder-traversal.js) | Easy           | 2021-05-29 |
 | Tree         | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution - 迭代](./solution/7-tree-2-144-binary-tree-preorder-traversal.js) | Easy           | 2021-05-29 |
+| Tree         | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)   | [Solution - 迭代](./solution/7-tree-3-94-binary-tree-inorder-traversal.js)   | Easy           | 2021-05-29 |
+| Tree         | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)   | [Solution - 迭代](./solution/7-tree-4-94-binary-tree-inorder-traversal.js)   | Easy           | 2021-05-29 |
 
 # FileName Rules:
 
