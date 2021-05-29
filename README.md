@@ -1,3 +1,20 @@
+# Introduction
+
+无意中看到一个 B 站小姐姐的数据结构与算法系列视频
+
+[https://www.bilibili.com/video/BV1sy4y1q79M](手把手带你刷Leetcode力扣｜各个击破数据结构和算法｜大厂面试必备技能【已完结】)
+
+感觉还是挺不错的
+
+1. 已经完结，不会有催更的烦恼
+2. 循序渐进得带你了解各种常用的数据结构，非常详细
+3. 提供对应的 LeetCode 题目和解题思路（有时候会是多种思路）
+4. 提供了 Python 和 Java 两种语言讲解数据结构，不过 LeetCode 的视频讲解给的是伪代码，适合各种语言的程序员
+
+这个项目主要也是自己在跟着视频学习的过程中，记录视频中提到的 LeetCode 题目，我自己是如果使用 JavaScript 语言来解决的
+
+需要注意的是，我的解题方法不一定能和视频的解题方法对应上：因为我都是先自己完成了题目，然后再去看视频讲解，只有觉得视频中的解题思路更好，才会去更新自己的代码
+
 # Solutions
 
 | Module       | Question Link                                                                              | Question Solution                                                             | Question Level | Date       |
