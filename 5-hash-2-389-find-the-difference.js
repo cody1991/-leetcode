@@ -8,10 +8,10 @@ var findTheDifference = function (s, t) {
 
   for (let index = 0; index < t.length; index++) {
     map[t.charCodeAt(index) - 97] += 1;
-  }
 
-  for (let index = 0; index < s.length; index++) {
-    map[s.charCodeAt(index) - 97] -= 1;
+    if (index !== t.length - 1) {
+      map[s.charCodeAt(index) - 97] -= 1;
+    }
   }
 
   for (let index = 0; index < map.length; index++) {
