@@ -4,6 +4,7 @@
  * @return {character}
  */
 var findTheDifference = function (s, t) {
+  if (s.length === 0) return t;
   const map = Array(26).fill(0);
 
   for (let index = 0; index < t.length; index++) {
