@@ -12,18 +12,35 @@
  */
 var preorderTraversal = function (root) {
   if (!root) return [];
-  const stack = [];
   const result = [];
+  const stack = [];
+  stack.push({
+    node: root,
+    visited: false,
+  });
 
-  // 推入头部
-  stack.push(root);
   while (stack.length > 0) {
     const rootNode = stack.pop();
-    result.push(rootNode.val);
-    // 堆栈的原因，需要先放入右边的节点，后放入左边的节点，那么会先处理左边的节点，再处理右边的节点
-    rootNode.right && stack.push(rootNode.right);
-    rootNode.left && stack.push(rootNode.left);
-  }
+    const { visited, node } = rootNode;
 
+    if (visited) {
+      result.push(node.val);
+    } else {
+      node.right &&
+        stack.push({
+          node: node.right,
+          visited: false,
+        });
+      node.left &&
+        stack.push({
+          node: node.left,
+          visited: false,
+        });
+      stack.push({
+        node,
+        visited: true,
+      });
+    }
+  }
   return result;
 };
