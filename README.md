@@ -1,6 +1,4 @@
-# LeetCode JavaScript
-
-## Questions
+# Solutions
 
 | Module       | Question Link                                                                      | Question Solution                                                       | Question Level | Date       |
 | ------------ | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------- | ---------- |
@@ -16,7 +14,7 @@
 | Hash         | [389. 找不同](https://leetcode-cn.com/problems/find-the-difference/)               | [Solution](./solution/5-hash-2-389-find-the-difference.js)              | Easy           | 2021-05-29 |
 | Hash + Stack | [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)  | [Solution](./solution/5-hash-3-496-easy-next-greater-element-i.js)      | Easy           | 2021-05-29 |
 
-## File Name Rules:
+# FileName Rules:
 
 Rules
 
